@@ -1,0 +1,14 @@
+{
+	"javascript_linter": "jshint",
+	"jshint_options": {
+		"laxcomma": true,
+		"node": true,
+		"undef": true,
+		"unused": true,
+		"curly": true,
+    "sub": true
+	},
+  "sublimelinter_gutter_marks": true,
+  "sublimelinter_popup_errors_on_save": false
+
+}

@@ -1,0 +1,15 @@
+[
+	{
+		"args":
+		{
+			"to": "eol"
+		},
+		"command": "move_to"
+	},
+  {
+    "command": "insert_snippet",
+    "args": {
+      "contents": ";\n"
+    }
+  }
+]
