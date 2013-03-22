@@ -3,5 +3,8 @@
     "keys": ["alt+super+enter"],
     "command": "run_macro_file",
     "args": {"file": "Packages/User/insert-terminator.sublime-macro"}
-  }
+  },
+  { "keys": ["super+shift+v"], "command": "paste" },
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+  { "keys": ["super+alt+ctrl+d"], "command": "toggle_side_bar" }
 ]
